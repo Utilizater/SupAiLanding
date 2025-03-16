@@ -1,16 +1,7 @@
 'use client';
 
 import React from 'react';
-import {
-  Box,
-  Container,
-  Typography,
-  Grid,
-  Stack,
-  Button,
-  Paper,
-} from '@mui/material';
-import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
+import { Box, Container, Typography, Grid, Stack, Paper } from '@mui/material';
 
 const About = () => {
   return (
@@ -133,7 +124,7 @@ const About = () => {
               <Typography
                 variant='body1'
                 sx={{ color: 'text.secondary', mb: 2 }}>
-                With our AI-driven personalization, we're able to provide
+                With our AI-driven personalization, we&apos;re able to provide
                 customers with tailored supplement plans that meet their
                 specific health goals and needs, creating a highly engaging and
                 effective user experience.

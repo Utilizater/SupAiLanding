@@ -1,8 +1,7 @@
 'use client';
 
 import React from 'react';
-import { Box, Container, Typography, Button, Grid, Stack } from '@mui/material';
-import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
+import { Box, Container, Typography, Grid, Stack } from '@mui/material';
 
 const Hero = () => {
   return (

@@ -8,7 +8,6 @@ import {
   Grid,
   Card,
   CardContent,
-  CardMedia,
   Stack,
 } from '@mui/material';
 import SmartToyIcon from '@mui/icons-material/SmartToy';
